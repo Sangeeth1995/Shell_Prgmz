@@ -1,0 +1,6 @@
+For running a .sh file 
+----------------------
+
+chmod +x filename.sh
+./filename.sh
+
